@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kvishnuv1403
+# 👋 Hi, I’m Vishnu Vardhan Koyyada
 
 👀 I’m interested in Software Development, AI/ML, Cloud Computing, and DevOps.  
 🌱 I’m currently learning Distributed Systems, Deep Learning, and Advanced Web Development.  

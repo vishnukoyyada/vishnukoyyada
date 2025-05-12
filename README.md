@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vishnu Vardhan Koyyada
 
 👀 I’m interested in Software Development, AI/ML, Cloud Computing, and DevOps.  
-🌱 I’m currently learning Distributed Systems, Deep Learning, and Advanced Web Development.  
+🌱 I’m currently learning Distributed Systems, Deep Learning, and Advanced Cloud Computing,Advanced Software Engineering. 
 💞️ I’m looking to collaborate on Full-Stack Projects, AI/ML Research, and Open Source DevOps Tools.  
 📫 How to reach me:  
 - Email: koyyada.vishnuvardhan2025@gmail.com  

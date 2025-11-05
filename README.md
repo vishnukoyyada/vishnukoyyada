@@ -1,7 +1,6 @@
-# 👋 Hi, I’m Vishnu Vardhan Koyyada Human By Nature && SWE By Choice );
+# 👋 Hi, I’m Vishnu  Koyyada Human By Nature &&  Engineer by Choice);
 
-👀 I’m interested in Software Development, AI/ML, Cloud Computing, and DevOps.  
-🌱 I’m currently learning Distributed Systems, Deep Learning.
+👀 I’m interested in Software Engineering, AI/ML, Cloud Computing, and DevOps.  
 💞️ I’m looking to collaborate on Full-Stack Projects, AI/ML Research, and Open Source DevOps Tools.  
 📫 How to reach me:  
 - Email: koyyada.vishnuvardhan2025@gmail.com  
@@ -33,13 +32,9 @@
 ---
 
 ## 📂 Projects
-- **Brain Tumor Classification**  
-  - Built a web application using TensorFlow, achieving 98% prediction accuracy.  
-  - Technologies: Python, Keras, OpenCV, Flask.
-
-- **Voice Assistant**  
-  - Developed a productivity-focused voice assistant using Python and OpenCV.  
-  - Increased user efficiency by up to 80%.
+- ** Elk Vs Plg and Modern day observability **
+- did an comphrensive stuy on elk stack vs plg stack
+- Doing an research project for comparing modern day observability tools (Open Telemtrt & Pixie).
 
 - **Job Posting CI/CD Pipeline**  
   - Designed and implemented a production-grade CI/CD pipeline using AWS, Jenkins, Kubernetes, and ArgoCD.  

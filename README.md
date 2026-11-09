@@ -1,14 +1,13 @@
-# 👋 Hi, I’m Vishnu  Koyyada Human By Nature &&  Engineer by Choice);
+# 👋Vishnu Koyyada here Have a good luck exploring my skills.
 
-👀 I’m interested in Software Engineering, AI/ML, Cloud Computing, and DevOps.  
-💞️ I’m looking to collaborate on Full-Stack Projects, AI/ML Research, and Open Source DevOps Tools.  
-📫 How to reach me:  
+👀 I am an [Software ,Artifical,Cloud]Engineer.    
+📫 Reach me by:  
 - Email: koyyada.vishnuvardhan2025@gmail.com  
 - LinkedIn: [Vishnu Vardhan Koyyada](https://www.linkedin.com/in/vishnu-vardhan-326901213/)  
 - Portfolio: [My Website](https://port-9fno.vercel.app)
 
 😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy automating tasks with Python, exploring cloud services, and building side projects for fun! 🌍🚀
+⚡ Hobbies : Love Reading books,learning History,play volleyball badminton cricket chess and watch anime 🌍🚀
 
 ---
 
